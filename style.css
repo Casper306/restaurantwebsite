@@ -1,0 +1,89 @@
+body{
+    margin:0 auto;
+    font-family:"Arial";
+    color:#708090;
+    }
+
+header{
+    color:white;
+    background:url(http://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/11/15/0/HE_Holiday-Table-Spread.s4x3.jpg.rend.hgtvcom.1280.960.suffix/1510773076063.jpeg);
+    text-align:center;
+    padding: 20px;
+    }
+
+nav{
+    position: fixed;
+    padding-top:10px;
+    width: 100vw;
+    height: 40px;
+    text-align:center;
+    font-size: 20px;
+    background:#FFBB00;
+    margin:auto;
+    }
+
+h2{
+    font-size: 2.2em;
+    }
+
+a:link{
+    text-align:center;
+    margin:10px 100px 10px 10px;
+    color:white;
+    font-size:20px;
+    text-decoration: none;
+    padding-top:30px;
+    }
+
+section>h4{
+    color:#FF4500;
+    }
+
+#lefttheme{
+     height: 100vh;
+     width: 100vw;
+     width:60%;
+     float:left;
+     padding-top:40px;
+     padding-left:20px;
+     }
+
+#Home{
+     height: 100vh;
+     width: 100vw;
+     font-size:14px;
+     width:40%;
+     line-height:30px;
+     color:#708090;
+     float:right;
+     padding-top:40px;
+     padding-right:20px;
+     }
+
+#Lunch{
+     height: 100vh;
+     padding-left:20px;
+    }
+
+#Dinner{
+     height: 100vh;
+     padding-left:20px;
+    }
+
+#Contact{
+     height: 100vh;
+     width:60%;
+     padding-left:20px;
+     color:black;
+     float:left;
+     }
+
+#Contactright{
+     width:40%;
+     float:right;
+     }
+
+#footer{
+
+     text-align:center;
+     }
